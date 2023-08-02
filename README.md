@@ -1,1 +1,1 @@
-currentt
+# About Bash projects
